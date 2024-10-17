@@ -4,7 +4,7 @@ notis.new("<Color=Blue>Founder: taidz<Color=/>"):Display()
 notis.new("<Color=Red>Join Discord In Youtube<Color=/>"):Display() 
 notis.new("<Color=Yellow>Exploit Use:<Color=/> ".. identifyexecutor()):Display() 
 local MainLoader = "https://raw.githubusercontent.com/shlexware/Orion/main/source"
-local RosieTeam = loadstring(game:HttpGet((MainLoader)))()
+local Taidepzai hub = loadstring(game:HttpGet((MainLoader)))()
 local P = game:GetService("Players")
 local LP = P.LocalPlayer
 local PG = LP.PlayerGui
@@ -64,7 +64,7 @@ function Notify(G, H, I)
     if type(I) ~= "number" then
         I = 10
     end
-    RosieTeam:MakeNotification({Name = G, Content = H, Image = "rbxassetid://15214658898", Time = I})
+    Taidepzai hub:MakeNotification({Name = G, Content = H, Image = "rbxassetid://15214658898", Time = I})
 end
 function CheckNearestTeleporter(P)
     local min = math.huge
@@ -1241,7 +1241,7 @@ function BypassTele(PosSelect)
         end
     end
 end
-local Window = RosieTeam:MakeWindow({Name = "Rosie Team", HidePremium = false, SaveConfig = false, ConfigFolder = "Hirimi Hub Main"})
+local Window = Taidepzai hub:MakeWindow({Name = "Taidepzai hub", HidePremium = false, SaveConfig = false, ConfigFolder = "Hirimi Hub Main"})
 local A = Window:MakeTab({Name = "Main", Icon = "rbxassetid://4483345998", PremiumOnly = false})
 local B = Window:MakeTab({Name = "Setting", Icon = "rbxassetid://11446835336", PremiumOnly = false})
 local C = Window:MakeTab({Name = "Raid", Icon = "rbxassetid://11155986081", PremiumOnly = false})
@@ -2987,4 +2987,4 @@ K:AddButton({Name = "Hop Server", Callback = function()
     HopServer()
 end    
 })
-RosieTeam:Init()
+Taidepzai hub:Init()
