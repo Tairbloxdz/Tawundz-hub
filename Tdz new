@@ -1,39 +1,4 @@
-------Soucre Old Recently 1-2 Months Ago
-------Soucre Old Recently 1-2 Months Ago
-------Soucre Old Recently 1-2 Months Ago
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-------Soucre Old Recently 1-2 Months Ago
-
-
-
-
+------Sexgayy
 hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Death), function() return end)
 hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Respawn), function() return end)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -315,15 +280,15 @@ do
 
 Tabs.About:AddParagraph({
     Title = "Owner",
-    Content = "Samurai Ghast"
+    Content = "Taidepzai"
 })
 Tabs.About:AddParagraph({
     Title = "Version",
     Content = "1.0"
 })
 local Time = Tabs.About:AddParagraph({
-    Title = "vn",
-    Content = "1.0"
+    Title = "Discord",
+    Content = "https://discord.gg/TFmhmbGjEE"
 })
 local function UpdateOS()
     local date = os.date("*t")
